@@ -1,10 +1,10 @@
 ## Olá sou Patrick, Futuro Engenheiro da computação e programador por paixão!
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickdmatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=patrickdmatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdmatos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdmatos&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
